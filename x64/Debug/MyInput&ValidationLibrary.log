@@ -1,0 +1,15 @@
+﻿  MyInput&ValidationLibrary.cpp
+C:\Users\ٍStars\Desktop\MyInput&ValidationLibrary\MyInput&ValidationLibrary\MyInput&ValidationLibrary.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ٍStars\Desktop\MyInput&ValidationLibrary\MyInput&ValidationLibrary\clsInputValidate.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'MyInput&ValidationLibrary.cpp')
+  
+C:\Users\ٍStars\Desktop\MyInput&ValidationLibrary\MyInput&ValidationLibrary\clsDate.h(932,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyInput&ValidationLibrary.cpp')
+  
+C:\Users\ٍStars\Desktop\MyInput&ValidationLibrary\MyInput&ValidationLibrary\clsDate.h(965,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyInput&ValidationLibrary.cpp')
+  
+C:\Users\ٍStars\Desktop\MyInput&ValidationLibrary\MyInput&ValidationLibrary\clsDate.h(970,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyInput&ValidationLibrary.cpp')
+  
+  MyInput&ValidationLibrary.vcxproj -> C:\Users\ٍStars\Desktop\MyInput&ValidationLibrary\x64\Debug\MyInput&ValidationLibrary.exe
